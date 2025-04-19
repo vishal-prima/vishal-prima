@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @vishal-prima
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Vishal Kumar
+- Currently, a software engineer at The Boeing Company.
+- 👀 I’m interested in Java, Spring and Related Technologies.
+- 🌱 I’m currently learning Angular.
+- 💞️ I’m looking to collaborate on Java Applications.
+- 📫 Reach me at vishu.lkr.2018@gmail.com
 
 <!---
 vishal-prima/vishal-prima is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
